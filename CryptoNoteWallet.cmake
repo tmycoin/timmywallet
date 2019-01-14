@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "Timmywallet")
+set(CN_CURRENCY_DISPLAY_NAME "Timmycoin")
+set(CN_CURRENCY_TICKER "TMY")
+set(CN_VERSION 2.0.0)

@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Timmywallet
+GenericName=Timmywallet
+Name[uk]=Timmywallet
+Name[ru]=Timmywallet
+Name[pl]=Timmywallet
+Name[be]=Timmywallet
+Name[de]=Timmywallet
+Name[es]=Timmywallet
+Comment=Timmycoin GUI wallet
+Comment[uk]=Timmycoin GUI wallet
+Comment[ru]=Timmycoin GUI wallet
+Comment[pl]=Timmycoin GUI wallet
+Comment[be]=Timmycoin GUI wallet
+Comment[de]=Timmycoin GUI wallet
+Comment[es]=Timmycoin GUI wallet
+Exec=timmywallet %U
+Terminal=false
+Type=Application
+Icon=timmycoin
+MimeType=x-scheme-handler/timmycoin;
+Categories=Office;Finance;
+Version=2.0.0
